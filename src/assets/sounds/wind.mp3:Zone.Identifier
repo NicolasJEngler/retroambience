@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://cloudconvert.com/
+HostUrl=https://eu-central.storage.cloudconvert.com/tasks/6d9d36a4-0b3d-4326-a2ec-0fb8b3b0fcd9/wind.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cloudconvert-production%2F20240724%2Ffra%2Fs3%2Faws4_request&X-Amz-Date=20240724T203145Z&X-Amz-Expires=86400&X-Amz-Signature=d6f2249151456b2f024cd605b793b7b2d43789e94483bd3a8ce866a6327af5b2&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22wind.mp3%22&response-content-type=audio%2Fmpeg&x-id=GetObject
