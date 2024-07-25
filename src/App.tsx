@@ -26,6 +26,9 @@ function App() {
 
   return (
     <div className="relative w-screen h-screen overflow-hidden bg-gray-900">
+      <div className="absolute top-4 left-4 z-50">
+        <h1 className="rpg-logo text-2xl text-white px-4 py-2">RetroAmbience</h1>
+      </div>
       <BackgroundImage image={currentImage} />
       <WhiteNoisePlayer type={whiteNoise} volume={volume} isPlaying={isPlaying} />
       <OverlayEffect type={overlay} />
