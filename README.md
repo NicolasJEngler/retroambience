@@ -1,6 +1,12 @@
-# React + TypeScript + Vite
+# RetroAmbience
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Enhance your concentration with ambient sounds and calming visuals in a nostalgic SNES RPG style interface.
+
+RetroAmbience is a React application that combines the power of ambient sounds with the nostalgic visuals of SNES-era RPGs. This unique blend creates an immersive environment designed to boost focus and productivity while providing a comforting, retro aesthetic.
+
+## React + TypeScript + Vite
+
+This project is built using React with TypeScript and Vite for a fast development experience.
 
 Currently, two official plugins are available:
 
@@ -23,8 +29,3 @@ export default {
     tsconfigRootDir: __dirname,
   },
 }
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
